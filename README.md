@@ -8,5 +8,5 @@ For the time being I'm finishing up my main PhD topic, the [AutoPHoT](https://gi
 I'm searching for an interesting Post-Doc, if you have an opening and want to collaborate, send me an email!
 
 - :earth_africa: [sn.ie](https://sn.ie)
-- :bird: [@Astro_Sean1](https://twitter.com/@Astro_Sean1
+- :bird: [@Astro_Sean1](https://twitter.com/@Astro_Sean1)
 - :email: [sean.brennan2@ucdconnet.ie](mailto:sean.brennan2@ucdconnet.ie)
