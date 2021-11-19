@@ -1,4 +1,4 @@
-### Hi, Seán is ainm dom!
+### Hi, Seán is ainm dom! :ireland:
 
 
 I am a final year PhD student at University College Dublin in Ireland. I am interested in astronomical transients, especially those that show signatures of interaction with dense material. In the future I want to focus on modelling extreme astronomical explosions such as supernovae, and study how this explosions look when surrounded by dense dust and gas, particularly in a non-symmetric setting!
