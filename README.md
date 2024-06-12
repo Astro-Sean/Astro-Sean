@@ -1,5 +1,5 @@
  
-I'm Seán, an astronomer at [Alba Nova, Stockholm University, Sweden](https://www.albanova.se/), researching mass loss from massive stars, and interacting transients.
+I'm Seán, an astronomer at [the Oskar Klein Centre, Stockholm University, Sweden](https://www.okc.albanova.se/), researching mass loss from massive stars, and interacting transients.
 
 My current work is focused on searching for pre-supernova, progenitor activity to better understand what a massive star does in it's final weeks - months before core-collapse.
 
