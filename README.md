@@ -1,11 +1,11 @@
 
-Hi, I'm **Seán**, an astronomer at the [Max Planck Institute for Extraterrestrial Physics (MPE)](https://www.mpe.mpg.de/main) in Garching bei München, Germany. My research explores mass loss from massive stars and the nature of interacting transients.
+Hi, I'm **Seán**, an astronomer at the [Max Planck Institute for Extraterrestrial Physics (MPE)](https://www.mpe.mpg.de/personnel/144270) in Garching bei München, Germany. My research explores mass loss from massive stars and the nature of interacting transients.
 
 **Research Focus**
 I'm interested in the final stages of massive stellar evolution—investigating pre-supernova activity to better understand what happens in the weeks to months before core collapse. My broader research spans:
 
 * High-energy astrophysical transients, especially interacting systems and their spectral signatures
-* Multi-wavelength photometric analysis using instruments like MPI 2.2m/GROND
+* Multi-wavelength photometric analysis using instruments like [MPI 2.2m/GROND](https://www.eso.org/sci/facilities/lasilla/telescopes/national/2p2.html)
 * X-ray studies with [eROSITA](https://www.mpe.mpg.de/eROSITA) and the [Einstein Probe](https://www.einsteinprobe.org/)
 * Developing tools and methods to detect early-time progenitor variability ahead of next-gen surveys like [LSST](https://www.lsst.org/)
 
