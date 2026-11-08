@@ -3,7 +3,7 @@ Hi, I'm **Seán**, an astronomer at the [Max Planck Institute for Extraterrestri
 **Research Focus**
 My work centres on catching massive stars in outburst before they explode and reading what their circumstellar material (CSM) says about the driving physics. That means:
 
-* Real-time discovery: filters on the [Lasair](https://lasair.roe.ac.uk/) broker to select pre-SN outbursts and late-time rebrightenings of stripped-envelope SNe, built for the [Rubin/LSST](https://www.lsst.org/  era
+* Real-time discovery: filters on the [Lasair](https://lasair.roe.ac.uk/) broker to select pre-SN outbursts and late-time rebrightenings of stripped-envelope SNe, built for the [Rubin/LSST](https://www.lsst.org/)  era.
 * Spectroscopy of interacting and eruptive transients: PI time on VLT/X-shooter, NOT/ALFOSC and GTC, plus ePESSTO+ classifications
 * Non-LTE spectral modelling of interacting SNe, linking hydrodynamic interaction models ([STELLA](https://github.com/Astro-Sean/OpenStella-PARDISO)) to atmosphere spectra (CMFGEN)
 * Multi-wavelength photometry with instruments like the [MPI 2.2m/GROND](https://www.eso.org/sci/facilities/lasilla/telescopes/national/2p2.html), and X-ray data from [eROSITA](https://www.mpe.mpg.de/eROSITA) and the [Einstein Probe](https://www.einsteinprobe.org/)
